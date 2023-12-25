@@ -74,7 +74,7 @@ With this app, you can quickly check the stats of your favourite pokemon.
 1. Clone the repo
 
 ```sh
-git clone [https://github.com/resuouroborous/pokedex.git]
+git clone https://github.com/resuouroborous/pokedex.git
 ```
 
 2. Install NPM packages
