@@ -31,7 +31,8 @@ With this app, you can quickly check the stats of your favourite pokemon.
 
 
 ## Live - Preview
-[Click here to view live preview](https://pokemon-madness-ng8tuxiy6-subhashs-projects-2c5f9e55.vercel.app/)
+[Click here to view live preview]
+https://pokemon-madness-ng8tuxiy6-subhashs-projects-2c5f9e55.vercel.app/
 
 
 
